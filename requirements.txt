@@ -2,5 +2,7 @@ pynput
 pyscreenshot
 sounddevice
 Pillow
+cryptography
+pywin32
 
-Install these packages using the terminal.
+Install these packages using the pip command in terminal.
