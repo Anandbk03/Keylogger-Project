@@ -16,7 +16,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 EMAIL_ADDRESS = "Replace with your Gmail address"  # Replace with your Gmail address
-EMAIL_PASSWORD = "Replace with your Gmail App Password or the password you use"  # Replace with your Gmail App Password or the password you use
+EMAIL_PASSWORD = "Replace with your Gmail App Password "  # App passwords can be created by navigating to gmail privacy settings.Refer youtube for tutorials.
 
 SEND_REPORT_EVERY = 40  # in seconds
 
