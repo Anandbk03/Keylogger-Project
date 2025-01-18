@@ -4,9 +4,11 @@ This project demonstrates how to implement a keylogger that stores encrypted Gma
 
 # Features
 1. Catches the keystrokes from the user.
-2. Captures Screenshots.
-3. The captured screenshots are deleted after sending.
-4. 
+2. Time Stamps are included for clarity in logs.
+3. Additionally it captures the current window tab name.
+4. Captures Screenshots.
+5. The captured screenshots are deleted after sending.
+6. Email id and app password are encrypted and would be unidentifiable by user.
 
 ## Prerequisites
 
