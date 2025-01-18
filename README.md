@@ -27,8 +27,8 @@ To securely use Gmail with the script, you must first generate an app password. 
 4. The script will generate an encrypted version of your Gmail email and app password, which will be used in the main script (script.py).
 
 ## Step 4: Running the Keylogger
-1.Once your credentials are encrypted, you are ready to run the keylogger:
-2.Open script.py and replace the placeholders with the encrypted credentials generated in Step 3.
-3.Run the script.py file. The keylogger will start and begin capturing keystrokes and sending the same through mail.
+1. Once your credentials are encrypted, you are ready to run the keylogger.
+2. Open script.py and replace the placeholders with the encrypted credentials generated in Step 3.
+3. Run the script.py file. The keylogger will start and begin capturing keystrokes and sending the same through mail.
 
 
