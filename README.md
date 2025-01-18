@@ -21,10 +21,10 @@ To securely use Gmail with the script, you must first generate an app password. 
    - The script will generate and print the encryption key, which you should store securely.
 
 ## Step 3: Encrypt Your Gmail Credentials
-1.Open the Encryptcredential.py file.
-2.Enter your Gmail email address and the app password you generated in Step 1.
-3.Run the file to encrypt your credentials. 
-4.The script will generate an encrypted version of your Gmail email and app password, which will be used in the main script (script.py).
+1. Open the Encryptcredential.py file.
+2. Enter your Gmail email address and the app password you generated in Step 1.
+3. Run the file to encrypt your credentials. 
+4. The script will generate an encrypted version of your Gmail email and app password, which will be used in the main script (script.py).
 
 ## Step 4: Running the Keylogger
 1.Once your credentials are encrypted, you are ready to run the keylogger:
