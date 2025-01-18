@@ -2,6 +2,12 @@
 
 This project demonstrates how to implement a keylogger that stores encrypted Gmail credentials. The project includes multiple files for generating encrypted credentials and utilizing them in a secure manner.
 
+# Features
+1. Catches the keystrokes from the user.
+2. Captures Screenshots.
+3. The captured screenshots are deleted after sending.
+4. 
+
 ## Prerequisites
 
 Before running the script, follow these steps to generate an app password for Gmail and encrypt your credentials.
@@ -30,5 +36,5 @@ To securely use Gmail with the script, you must first generate an app password. 
 1. Once your credentials are encrypted, you are ready to run the keylogger.
 2. Open script.py and replace the placeholders with the encrypted credentials generated in Step 3.
 3. Run the script.py file. The keylogger will start and begin capturing keystrokes and sending the same through mail.
-
+4. The time interval for the screenshot and keystroke reports to be sent can be modified in the code.
 
