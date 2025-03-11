@@ -1,7 +1,7 @@
 from cryptography.fernet import Fernet
 
 # Replace with your generated Fernet key
-key = b'ENTER THE KEY GENERATED HERE'
+key = b'ENTER THE KEY GENERATED'
 fernet = Fernet(key)
 
 # Replace with your email and password
